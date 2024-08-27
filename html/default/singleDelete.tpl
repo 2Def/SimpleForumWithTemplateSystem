@@ -1,0 +1,2 @@
+<span style="font-size: 16px; font-weight: bold; padding: 1%; margin-bottom: 5px; width: 98%;">Kliknij tytuł by usunąć. <a style="color: red;" href="/delete.php?what={delete_what}&id={delete_id}">{delete_title}</a></span>
+<hr />
